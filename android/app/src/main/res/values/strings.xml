@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pnevy - Pocket Spirit</string>
+    <string name="update_manifest" translatable="false"></string>
+    <string name="overlay_title">Fairy is flying</string>
+    <string name="overlay_text">She is on screen. Touches still reach your apps.</string>
+    <string name="overlay_stop">Stop</string>
+</resources>

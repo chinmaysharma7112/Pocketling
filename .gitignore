@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+*.iml
+local.properties
+keystore.properties
+*.jks
+*.keystore
+android/.gradle/
+android/build/
+android/app/build/
+android/app/src/main/assets/www/
+*.apk
+*.aab
+.DS_Store
